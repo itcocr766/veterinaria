@@ -1,0 +1,28 @@
+
+
+    N.CREDITO : 6
+     FECHA  :11/5/2018 11:22:13 AM
+      CAJERO: Admin
+      CLIENTE: RICHARD EDUARDO VIQUEZ PEREZ
+
+Cantidad        Artículo        Precio
+----------------------------------------------------------
+
+    1    MUÑECA    8990
+    1    MUÑECA    8990
+    1    MUÑECA    8990
+----------------------------------------------------------
+ARTICULOS=   ₡0
+SUBTOTAL=   ₡23,867.26
+DESCUENTO=   ₡0.00
+TOTAL=   ₡26,970.00
+----------------------------------------------------------
+NOTAS : 
+----------------------------------------------------------
+Cambio por devolución
+
+----Autorizada mediante resolución--------
+---------N° DGT‐R‐48‐2016 del 07---------
+----------de octubre de 2016.---------------
+----------¡Gracias por su compra!--------------
+********Esperamos servirle de nuevo ************

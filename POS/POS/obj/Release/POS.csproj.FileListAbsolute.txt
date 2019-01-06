@@ -1,0 +1,322 @@
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\bin\Release\POS.exe.config
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\bin\Release\POS.exe
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\bin\Release\POS.pdb
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\bin\Release\EntityFramework.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\bin\Release\Google.Protobuf.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\bin\Release\MySql.Data.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\bin\Release\EntityFramework.xml
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\bin\Release\Google.Protobuf.xml
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\bin\Release\MySql.Data.xml
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\POS.csprojAssemblyReference.cache
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\Interop.MESSAGEREQUESTMGRLib.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\Interop.QBAddInManager.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\Interop.QBCoLocator.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\Interop.qbconnector.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\Interop.QBCSBAxLib.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\Interop.QBDAGENT2003Lib.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\Interop.QBFC10Lib.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\Interop.QBFC12Lib.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\Interop.QBFC13Lib.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\Interop.QBINBOXLib.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\Interop.QBInstanceFinder.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\Interop.QBPOSXMLRPLib.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\Interop.QBPreferences.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\Interop.QBRequestAdaptorLib.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\Interop.QBScanManagerInfoLib.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\Interop.QBSDKCOMUtilLib.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\Interop.QBSDKEVENTLib.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\Interop.QBVersionToolLib.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\Interop.QBXL64BitConnector.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\Interop.QBXMLRP2Lib.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\Interop.QBXMLRPLib.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\Interop.QFILLLib.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\Interop.QuickBooksInfoLib.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\Interop.SERVICEMGR2003Lib.dll
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\POS.csproj.ResolveComReference.cache
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\POS.Configuracion.configuracion.resources
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\POS.Configuracion.Contrasenaconfig.resources
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\POS.Contrasena.contrasena.resources
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\POS.Vista.Abonos.resources
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\POS.Vista.Apartados.resources
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\POS.Vista.clientes.resources
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\POS.Form1.resources
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\POS.Properties.Resources.resources
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\POS.Vista.Inicio.resources
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\POS.Vista.MenuApartados.resources
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\POS.Vista.productos.resources
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\POS.Vista.Progress.resources
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\POS.Vista.vendedores.resources
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\POS.csproj.GenerateResource.cache
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\POS.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\POS.csproj.CopyComplete
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\POS.exe
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\POS.pdb
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\bin\Release\POS.exe.manifest
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\bin\Release\POS.application
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\POS.exe.manifest
+C:\Users\Richard\Desktop\POSN\23 dia\POS\POS\obj\Release\POS.application
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\bin\Release\POS.exe.config
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\bin\Release\POS.exe.manifest
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\bin\Release\POS.application
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\bin\Release\POS.exe
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\bin\Release\POS.pdb
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\bin\Release\EntityFramework.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\bin\Release\Google.Protobuf.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\bin\Release\MySql.Data.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\bin\Release\EntityFramework.xml
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\bin\Release\Google.Protobuf.xml
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\bin\Release\MySql.Data.xml
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\POS.csprojAssemblyReference.cache
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\Interop.MESSAGEREQUESTMGRLib.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\Interop.QBAddInManager.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\Interop.QBCoLocator.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\Interop.qbconnector.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\Interop.QBCSBAxLib.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\Interop.QBDAGENT2003Lib.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\Interop.QBFC10Lib.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\Interop.QBFC12Lib.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\Interop.QBFC13Lib.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\Interop.QBINBOXLib.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\Interop.QBInstanceFinder.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\Interop.QBPOSXMLRPLib.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\Interop.QBPreferences.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\Interop.QBRequestAdaptorLib.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\Interop.QBScanManagerInfoLib.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\Interop.QBSDKCOMUtilLib.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\Interop.QBSDKEVENTLib.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\Interop.QBVersionToolLib.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\Interop.QBXL64BitConnector.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\Interop.QBXMLRP2Lib.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\Interop.QBXMLRPLib.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\Interop.QFILLLib.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\Interop.QuickBooksInfoLib.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\Interop.SERVICEMGR2003Lib.dll
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\POS.csproj.ResolveComReference.cache
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\POS.Configuracion.configuracion.resources
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\POS.Configuracion.Contrasenaconfig.resources
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\POS.Contrasena.contrasena.resources
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\POS.Vista.Abonos.resources
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\POS.Vista.Apartados.resources
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\POS.Vista.clientes.resources
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\POS.Form1.resources
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\POS.Properties.Resources.resources
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\POS.Vista.Inicio.resources
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\POS.Vista.MenuApartados.resources
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\POS.Vista.productos.resources
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\POS.Vista.Progress.resources
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\POS.Vista.vendedores.resources
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\POS.csproj.GenerateResource.cache
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\POS.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\POS.exe.manifest
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\POS.application
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\POS.csproj.CopyComplete
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\POS.exe
+C:\Users\Richard\Desktop\POSN\24 dia\POS\POS\obj\Release\POS.pdb
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\POS.csprojAssemblyReference.cache
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\Interop.MESSAGEREQUESTMGRLib.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\Interop.QBAddInManager.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\Interop.QBCoLocator.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\Interop.qbconnector.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\Interop.QBCSBAxLib.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\Interop.QBDAGENT2003Lib.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\Interop.QBFC10Lib.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\Interop.QBFC12Lib.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\Interop.QBFC13Lib.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\Interop.QBINBOXLib.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\Interop.QBInstanceFinder.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\Interop.QBPOSXMLRPLib.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\Interop.QBPreferences.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\Interop.QBRequestAdaptorLib.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\Interop.QBScanManagerInfoLib.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\Interop.QBSDKCOMUtilLib.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\Interop.QBSDKEVENTLib.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\Interop.QBVersionToolLib.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\Interop.QBXL64BitConnector.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\Interop.QBXMLRP2Lib.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\Interop.QBXMLRPLib.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\Interop.QFILLLib.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\Interop.QuickBooksInfoLib.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\Interop.SERVICEMGR2003Lib.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\POS.csproj.ResolveComReference.cache
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\POS.Configuracion.configuracion.resources
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\POS.Configuracion.Contrasenaconfig.resources
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\POS.Contrasena.contrasena.resources
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\POS.Vista.Abonos.resources
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\POS.Vista.Apartados.resources
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\POS.Vista.clientes.resources
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\POS.Form1.resources
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\POS.Properties.Resources.resources
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\POS.Vista.Inicio.resources
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\POS.Vista.MenuApartados.resources
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\POS.Vista.productos.resources
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\POS.Vista.Progress.resources
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\POS.Vista.vendedores.resources
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\POS.csproj.GenerateResource.cache
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\POS.csproj.CoreCompileInputs.cache
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\POS.exe
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\POS.pdb
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\bin\Release\POS.exe.config
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\bin\Release\POS.exe.manifest
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\bin\Release\POS.application
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\bin\Release\POS.exe
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\bin\Release\POS.pdb
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\bin\Release\EntityFramework.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\bin\Release\Google.Protobuf.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\bin\Release\MySql.Data.dll
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\bin\Release\EntityFramework.xml
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\bin\Release\Google.Protobuf.xml
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\bin\Release\MySql.Data.xml
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\POS.exe.manifest
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\POS.application
+C:\Users\Richard\Desktop\POSN\conidisposable\POS\POS\obj\Release\POS.csproj.CopyComplete
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\POS.exe.config
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\POS.exe.manifest
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\POS.application
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\POS.exe
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\POS.pdb
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\EntityFramework.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Google.Protobuf.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.AnalysisServices.AppLocal.Core.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.AnalysisServices.AppLocal.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.AnalysisServices.AppLocal.Tabular.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.ReportViewer.Common.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.ReportViewer.Design.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.ReportViewer.WinForms.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.SqlServer.Types.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\MySql.Data.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Newtonsoft.Json.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\EnvDTE.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\stdole.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.VisualStudio.VSHelp.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.VisualStudio.ProjectAggregator.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.VisualStudio.Debugger.InteropA.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\EnvDTE80.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.Build.Tasks.Core.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.VisualStudio.Data.Services.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\VSLangProj.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.VisualStudio.Data.Core.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\VSLangProj80.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.VisualStudio.ManagedInterfaces.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\System.Threading.Tasks.Dataflow.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.VisualStudio.GraphModel.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.MSXML.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.Build.Utilities.Core.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.Build.Framework.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\VSLangProj2.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\EntityFramework.xml
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Google.Protobuf.xml
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\MySql.Data.xml
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Newtonsoft.Json.xml
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\es\Microsoft.VisualStudio.Data.Services.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\bin\Release\es\Microsoft.VisualStudio.Data.Core.resources.dll
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.csprojAssemblyReference.cache
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.exe.config
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.Anulaciones.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.Anular.contr.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.cajerosprincipal.cajeross.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.Cierres.cambiarlaclave.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.Cierres.Cierre.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.Cierres.conficon.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.Cierres.configuracion.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.Cierres.historico.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.Cierres.menuReportes.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.clientes.clienform.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.clientesprincipal.climod.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.Configuracion.configuracion.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.Configuracion.Contrasenaconfig.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.Contrasena.contrasena.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.Descuentos.descuento.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.Devoluciones.devolucion.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.Inicio2.inicio2.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.Inicio2.inicio3.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.nc.notascredito.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.productosprincipal.creaitem.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.productosprincipal.promod.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.Reportes.Clientesrepor.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.Reportes.detallesr.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.Reportes.Productosrepor.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.Reportes.Vendedoresrepor.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.Reportes.Ventasrepor.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.vendedoresprincipal_.creavendedor.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.vendedoresprincipal_.vendmod.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.Vista.administracion.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.MenuPrincipal.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.clientesprincipal.clies.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.Form1.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.Properties.Resources.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.Vista.Inicio.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.Vista.productos.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.Vista.Progress.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.vendedoresprincipal_.vendedores.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.vueltos.elvuelto.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.whatsapp.autenticacion.resources
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.csproj.GenerateResource.cache
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.csproj.CoreCompileInputs.cache
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.exe.manifest
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.application
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.csproj.CopyComplete
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.exe
+C:\Users\richard\Documents\itco\veterinaria\POS\POS\obj\Release\POS.pdb

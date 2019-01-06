@@ -1,0 +1,22 @@
+               MODA MULTIMARCAS
+               3-101-766015
+          PEREZ ZELEDON
+          SAN ISIDRO DEL GENERAL
+               27-72-88-58
+------------------------------------------------
+FECHA:     10/3/2018 10:05:00 PM
+CAJERO: 4
+CLIENTE: LUIS ALBERTO GOMEZ GAMBOA
+SALDO INICIAL: 19900
+SALDO ANTERIOR: 14900
+SALDO ACTUAL: 4,900.00
+------------------------------------------------
+
+ABONOS HASTA EL MOMENTO:
+
+No.Factura              Monto abonado
+#46	                                    ₡5000
+10/3/2018 1:30:57 PM
+#46	                                    ₡10000
+10/3/2018 10:04:57 PM
+------------------------------------------------

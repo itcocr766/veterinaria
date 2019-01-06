@@ -1,0 +1,51 @@
+               Rizos o Lisos Super Salon
+               3101611303
+          SAN JOSE
+          SAN JOSE
+               22346248
+    Fecha:     18/12/2018 9:45:04 a. m.
+                      No.Factura:
+             00200001040000000964
+                        Clave:
+5061812180031026714690020
+0001040000000964109872060
+                Comprobante: 141
+Tipo de Comprobante:
+Tiquete Electrónico
+        Tipo de pago : Efectivo
+          Facturado por: admin
+Cliente:
+Contado
+-----------------------------------------------
+Cantidad           Precio
+               Artículo
+-----------------------------------------------
+
+      1                        ₡21312
+wqwqe
+         (0%)  Descuento =   ₡0.00
+      1                        ₡2000.1
+affogato (espresso+bolita
+         (0%)  Descuento =   ₡0.00
+      1                        ₡800
+americano
+         (0%)  Descuento =   ₡0.00
+      1                        ₡1500
+americano grande
+         (0%)  Descuento =   ₡0.00
+         (E)=Exento            (G)=Gravado
+ARTICULOS=                      4
+SUBTOTAL=                      ₡22,665.57
+I.V.A.=                               ₡2,946.52
+DESCUENTO=                   ₡0.00
+TOTAL=                             ₡25,612.09
+------------------------------MONTO-------------
+PAGA CON:                        ₡43,534,364
+VUELTO=                           ₡-43,508,751.91
+           ARTICULOS CON I.V.I.
+           VENDEDOR : venfr
+----Autorizada mediante resolución--------
+---------N° DGT‐R‐48‐2016 del 07---------
+----------de octubre de 2016.---------------
+----------¡Gracias por su compra!--------------
+********Esperamos servirle de nuevo ************
